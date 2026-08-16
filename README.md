@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./profile.png" width="180" height="180" style="border-radius: 50%;" alt="Bhanu Teja Reddy"/>
+  <img src="./profile.png" width="180" height="180" style="border-radius: 50%;" alt="Reddy Bhanu Teja"/>
 </p>
 
-<h1 align="center">Bhanu Teja Reddy</h1>
+<h1 align="center"> Reddy Bhanu Teja</h1>
 
 <p align="center">
   <strong>Associate Full Stack Developer | Full Stack · Backend · AI</strong>
